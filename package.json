@@ -1,6 +1,6 @@
 {
   "name": "futuware-scribe-plugin-sanitizer",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "main": "src/scribe-plugin-sanitizer.js",
   "dependencies": {
     "html-janitor": "^2.0.2",
@@ -16,6 +16,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/guardian/scribe-plugin-sanitizer.git"
+    "url": "git://github.com/futuware/scribe-plugin-sanitizer.git"
   }
 }
